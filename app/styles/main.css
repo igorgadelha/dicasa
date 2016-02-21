@@ -1,0 +1,31 @@
+
+.slogan {
+  color: white;
+  font-weight: bold;
+  text-shadow: 2px 1px 5px rgba(150, 150, 155, 1);
+  font-size: 50pt;
+}
+.slogan small {
+  font-size: 31pt;
+}
+
+.orange-backgroud {
+  background: #FFB539;
+  /*background: url(../images/header/bg.png) no-repeat top center fixed;*/
+  background-size: 100%;
+}
+.middle-backgroud {
+   /*background: #FFB539;*/
+   background: url(../images/header/bg_2.png) no-repeat top center fixed;
+   background-size: 100%;
+   min-height: 600px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+ font-family: 'aaux_promediumregular';
+}
